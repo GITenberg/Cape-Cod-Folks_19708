@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8827'
     url: http://www.gutenberg.org/2009/agents/8827
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19708#Cape-Cod-Folks
 gutenberg_issued: '2006-11-04'
 gutenberg_type: Text
 identifiers:
