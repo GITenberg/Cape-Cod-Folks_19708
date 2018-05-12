@@ -1,0 +1,27 @@
+_repo: Cape-Cod-Folks_19708
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Greene, Sarah Pratt McLean
+    alias: McLean, Sarah Pratt
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '8827'
+    url: http://www.gutenberg.org/2009/agents/8827
+description: ''
+gutenberg_issued: '2006-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19708'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Cape Cod (Mass.) -- Fiction'
+title: Cape Cod Folks
+url: http://www.gutenberg.org/ebooks/19708
